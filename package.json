@@ -72,6 +72,6 @@
     "tslint": "^5.2.0",
     "typescript": "~2.2.1",
     "typings": "^2.1.0",
-    "zone.js": "^0.8.11"
+    "zone.js": "0.8.11"
   }
 }
