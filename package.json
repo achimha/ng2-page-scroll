@@ -57,7 +57,7 @@
     "@angular/common": "^4.0.2",
     "@angular/compiler": "^4.0.2",
     "@angular/compiler-cli": "^4.0.2",
-    "@angular/core": "^4.0.2",
+    "@angular/core": "4.2.2",
     "@angular/platform-browser": "^4.0.2",
     "@angular/platform-server": "^4.0.2",
     "@angular/router": "^4.0.2",
