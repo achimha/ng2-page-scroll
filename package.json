@@ -56,7 +56,7 @@
     "@angular/animations": "^4.2.2",
     "@angular/common": "^4.0.2",
     "@angular/compiler": "^4.0.2",
-    "@angular/compiler-cli": "^4.0.2",
+    "@angular/compiler-cli": "^4.2.3",
     "@angular/core": "^4.0.2",
     "@angular/platform-browser": "^4.0.2",
     "@angular/platform-server": "^4.0.2",
