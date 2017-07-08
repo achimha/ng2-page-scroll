@@ -59,7 +59,7 @@
     "@angular/compiler-cli": "^4.0.2",
     "@angular/core": "^4.0.2",
     "@angular/platform-browser": "^4.0.2",
-    "@angular/platform-server": "^4.0.2",
+    "@angular/platform-server": "^4.2.6",
     "@angular/router": "^4.0.2",
     "@types/jasmine": "^2.5.45",
     "codelyzer": "~3.0.1",
